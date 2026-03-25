@@ -10,6 +10,7 @@ python3 cellebrite_troubleshoot.py
 
 
 Advanced Tool for Troubleshooting
+
 #bash
 
 chmod +x ufed_diag.py
